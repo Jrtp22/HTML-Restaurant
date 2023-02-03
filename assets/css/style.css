@@ -18,9 +18,10 @@ li {
 }
 
 img {
-    width: 100%;
-    height: auto;
-    max-width: 100%;
+    width: 4px;
+    height: 2px;
+    margin: 0 auto;
+    border-radius: 25px;
 }
 
 main {
@@ -53,14 +54,16 @@ nav a:hover {
 }
 
 #banner {
-    width: 100%;
-    height: auto;
+    width: 35%;
+    height: 25%;
     background-color: white;
+    border-radius: 25px;
 }
 
 #banner img {
     width: 60%;
     height: auto;
+    
 }
 
 .service {
